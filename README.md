@@ -15,7 +15,7 @@ This is a web application game based on the card game Memory. All cards start fa
 * `$ npm install` to install all necessary dependencies.
 * `$ gulp build`
 * open `index.html` in the browser of your choice.
-​
+
 ## Support and Contact Details
 
 Please feel free to contact sheenanick@gmail.com if you have any issues or questions, ideas or concerns.
@@ -25,7 +25,7 @@ Please feel free to contact sheenanick@gmail.com if you have any issues or quest
 * JavaScript
 * jQuery
 * Node.js
-​
+
 ### License
 
 This software is licensed under the MIT license.
